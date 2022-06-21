@@ -1,4 +1,4 @@
-### <div align='center'>Hey there! My name is Dima. I'm frontend developer.</div>
+### <div align='center'>Hey there! My name is Dima. I'm Frontend JS Developer.</div>
 
 ***
 
