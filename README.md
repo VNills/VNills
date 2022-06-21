@@ -2,18 +2,6 @@
 
 ***
 
-### <div align='center'>My Contacts</div>
-<div align='center' id="badges">
-  <a href="https://t.me/vnills">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="50px"/>
-  </a>
-  <a name="gmail" href="dmitryemelyanov9@gmail.com"> 
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-  </a> 
-</div>
-
-***
-
 ### <div align='center'>My Tech Stack</div>
 
 <div align='center' id="stackBox">
@@ -29,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
-#### <div align='center'>Frontend</div>
+#### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
@@ -53,5 +41,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
-</div>
+
 ***
+
+### <div align='center'>My Contacts</div>
+<div align='center' id="badges">
+  <a href="https://t.me/vnills">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="50px"/>
+  </a>
+  <a name="gmail" href="mailto:dmitryemelyanov9@gmail.com"> 
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  </a> 
+</div>
+
