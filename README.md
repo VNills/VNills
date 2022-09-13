@@ -42,17 +42,18 @@
 ...
 
 ***
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnills&show_icons=true&locale=en&layout=compact" alt="vnills" /></p>
-<p align='center' id="badges">
-  <h3 align='center'>Connect:</h3>
+<div align='center' id="badges">
+  <h3 align='center'>Connect with me:</h3>
   <a href="https://t.me/vnills">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="50px"/>
   </a>
   <a name="gmail" href="mailto:dmitryemelyanov9@gmail.com"> 
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a> 
-</p>
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnills&show_icons=true&locale=en&layout=compact" alt="vnills" /></p>
+
 <p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vnills&" alt="vnills" /></p>
 
 ### 
