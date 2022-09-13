@@ -44,6 +44,10 @@
 
 ***
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnills&show_icons=true&locale=en&layout=compact" alt="vnills" /></p>
+
+<p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vnills&" alt="vnills" /></p>
+
 ### <div align='center'>My Contacts</div>
 <div align='center' id="badges">
   <a href="https://t.me/vnills">
@@ -54,8 +58,4 @@
   </a> 
 </div>
 
-***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnills&show_icons=true&locale=en&layout=compact" alt="vnills" /></p>
-
-<p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vnills&" alt="vnills" /></p>
