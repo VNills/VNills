@@ -50,7 +50,9 @@
   <a name="gmail" href="mailto:dmitryemelyanov9@gmail.com"> 
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a> 
+   
 ***
+   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnills&show_icons=true&locale=en&layout=compact" alt="vnills" /></p>
 
 <p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vnills&" alt="vnills" /></p>
