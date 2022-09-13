@@ -42,7 +42,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ...
 
-<div align='center'>Connect with me:</div>
+<h3 align='center'>Connect with me:</h3>
 <div align='center' id="badges">
   <a href="https://t.me/vnills">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Telegram" width="50px"/>
