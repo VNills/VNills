@@ -56,6 +56,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnills&show_icons=true&locale=en&layout=compact" alt="vnills" /></p>
 
 <p><img align="right" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vnills&" alt="vnills" /></p>
-   
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="dmitry-emelyanov-js" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/dmitry-emelyanov-js?trk=profile-badge">Dmitry Emelyanov</a></div>
-              
